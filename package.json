@@ -2,12 +2,11 @@
   "name": "gulp_init",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@babel/cli": "^7.0.0-beta.36",
     "@babel/core": "^7.0.0-beta.36",
     "@babel/preset-env": "^7.0.0-beta.36",
